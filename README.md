@@ -62,3 +62,93 @@ Adam：一种随机优化方法<br>
 **Random search for hyper-parameter optimization (2012)**  
 超参数优化的随机搜索<br>
 **[中英对照翻译pdf](https://www.jianguoyun.com/p/DTGnLqkQ7f6SDBj7xfAFIAA)** <br>
+
+## Unsupervised / Generative Models
+无监督/生成模型
+
+- Pixel recurrent neural networks (2016)
+  - 像素递归神经网络 (2016)
+
+- Improved techniques for training GANs (2016)
+  - 改进的生成对抗网络训练技术 (2016)
+
+- Unsupervised representation learning with deep convolutional generative adversarial networks (2015)
+  - 使用深度卷积生成对抗网络的无监督表示学习 (2015)
+
+- DRAW: A recurrent neural network for image generation (2015)
+  - DRAW: 用于图像生成的递归神经网络 (2015)
+
+- Generative adversarial nets (2014)
+  - 生成对抗网络 (2014)
+
+- Auto-encoding variational Bayes (2013)
+  - 自编码变分贝叶斯 (2013)
+
+- Building high-level features using large scale unsupervised learning (2013)
+  - 使用大规模无监督学习构建高层特征 (2013)
+
+## Convolutional Neural Network Models
+卷积神经网络模型
+
+- Rethinking the inception architecture for computer vision (2016)
+  - 重新思考计算机视觉中的Inception架构 (2016)
+
+- Inception-v4, inception-resnet and the impact of residual connections on learning (2016)
+  - Inception-v4、Inception-ResNet及残差连接对学习的影响 (2016)
+
+- Identity Mappings in Deep Residual Networks (2016)
+  - 深度残差网络中的恒等映射 (2016)
+
+- Deep residual learning for image recognition (2016)
+  - 用于图像识别的深度残差学习 (2016)
+
+- Spatial transformer network (2015)
+  - 空间变换网络 (2015)
+
+- Going deeper with convolutions (2015)
+  - 通过卷积实现更深的网络 (2015)
+
+- Very deep convolutional networks for large-scale image recognition (2014)
+  - 用于大规模图像识别的超深卷积网络 (2014)
+
+- Return of the devil in the details: delving deep into convolutional nets (2014)
+  - 细节中的魔鬼回归：深入研究卷积网络 (2014)
+
+- OverFeat: Integrated recognition, localization and detection using convolutional networks (2013)
+  - OverFeat: 使用卷积网络的集成识别、定位和检测 (2013)
+
+- Maxout networks (2013)
+  - Maxout网络 (2013)
+
+- Network in network (2013)
+  - 网络中的网络 (2013)
+
+- ImageNet classification with deep convolutional neural networks (2012)
+  - 使用深度卷积神经网络进行ImageNet分类 (2012)
+
+## Image: Segmentation / Object Detection
+图像：分割/目标检测
+
+- You only look once: Unified, real-time object detection (2016)
+  - 你只看一次：统一的实时目标检测 (2016)
+
+- Fully convolutional networks for semantic segmentation (2015)
+  - 用于语义分割的全卷积网络 (2015)
+
+- Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015)
+  - Faster R-CNN：使用区域建议网络实现实时目标检测 (2015)
+
+- Fast R-CNN (2015)
+  - 快速R-CNN (2015)
+
+- Rich feature hierarchies for accurate object detection and semantic segmentation (2014)
+  - 用于精确目标检测和语义分割的丰富特征层次结构 (2014)
+
+- Spatial pyramid pooling in deep convolutional networks for visual recognition (2014)
+  - 用于视觉识别的深度卷积网络中的空间金字塔池化 (2014)
+
+- Semantic image segmentation with deep convolutional nets and fully connected CRFs
+  - 使用深度卷积网络和全连接条件随机场的语义图像分割
+
+- Learning hierarchical features for scene labeling (2013)
+  - 学习用于场景标注的层次特征 (2013)
