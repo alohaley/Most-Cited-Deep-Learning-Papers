@@ -36,22 +36,29 @@ Decaf：用于通用视觉识别的深度卷积激活特征 (2014) <br>
 优化 / 训练技术
 
 **Training very deep networks (2015)**  
-训练非常深的网络
+训练深层网络<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DS88wPYQ7f6SDBjoxfAFIAA)** <br>
 
 **Batch normalization: Accelerating deep network training by reducing internal covariate shift (2015)**  
-批量归一化：通过减少内部协变量偏移加速深度网络训练
+批量归一化：通过减少内部协变量偏移加速深度网络训练<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DWFt5CgQ7f6SDBjzxfAFIAA)** <br>
 
 **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification (2015)**  
-深入研究修正线性单元：在ImageNet分类上超越人类水平
+深入研究修正线性单元：在ImageNet分类上超越人类水平<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Dby_aZUQ7f6SDBj0xfAFIAA)** <br>
 
 **Dropout: A simple way to prevent neural networks from overfitting (2014)**  
-Dropout：防止神经网络过拟合的简单方法
+Dropout：防止神经网络过拟合的简单方法<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DUpw94IQ7f6SDBj3xfAFIAA)** <br>
 
 **Adam: A method for stochastic optimization (2014)**  
-Adam：一种随机优化方法
+Adam：一种随机优化方法<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Df-mI4gQ7f6SDBj4xfAFIAA)** <br>
 
 **Improving neural networks by preventing co-adaptation of feature detectors (2012)**  
-通过防止特征检测器的共适应性来改进神经网络
+通过防止特征检测器的共适应性来改进神经网络<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DfN4OlIQ7f6SDBj6xfAFIAA)** <br>
 
 **Random search for hyper-parameter optimization (2012)**  
-超参数优化的随机搜索
+超参数优化的随机搜索<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DTGnLqkQ7f6SDBj7xfAFIAA)** <br>
