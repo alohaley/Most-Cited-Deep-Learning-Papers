@@ -79,7 +79,7 @@ Adam：一种随机优化方法<br>
 **[中英对照翻译pdf](https://www.jianguoyun.com/p/DYbUqu0Q7f6SDBjj8PAFIAA)** <br>
 
 **DRAW: A recurrent neural network for image generation (2015)** <br>
-DRAW: 用于图像生成的递归神经网络 (2015)
+DRAW: 用于图像生成的递归神经网络 (2015)<br>
 **[中英对照翻译pdf](https://www.jianguoyun.com/p/DRTNP2UQ7f6SDBjl8PAFIAA)** <br>
 
 **Generative adversarial nets (2014)** <br>
