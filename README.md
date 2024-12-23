@@ -99,51 +99,51 @@ DRAW: 用于图像生成的递归神经网络 (2015)<br>
 
 **Rethinking the inception architecture for computer vision (2016)** <br>
 重新思考计算机视觉中的Inception架构 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/De2hm08Q7f6SDBik9vAFIAA)** <br>
 
 **Inception-v4, inception-resnet and the impact of residual connections on learning (2016)** <br>
 Inception-v4、Inception-ResNet及残差连接对学习的影响 (2016)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DSBihE4Q7f6SDBil9vAFIAA)** <br>
 
 **Identity Mappings in Deep Residual Networks (2016)** <br>
 深度残差网络中的恒等映射 (2016)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DWlF_fUQ7f6SDBim9vAFIAA)** <br>
 
 **Deep residual learning for image recognition (2016)** <br>
 用于图像识别的深度残差学习 (2016)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DS8t2XkQ7f6SDBin9vAFIAA)** <br>
 
 **Spatial transformer network (2015)** <br>
 空间变换网络 (2015)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DaCXSigQ7f6SDBio9vAFIAA)** <br>
 
 **Going deeper with convolutions (2015)** <br>
 通过卷积实现更深的网络 (2015)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DcgLiTQQ7f6SDBip9vAFIAA)** <br>
 
 **Very deep convolutional networks for large-scale image recognition (2014)** <br>
 用于大规模图像识别的超深卷积网络 (2014)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DfAE7dsQ7f6SDBir9vAFIAA)** <br>
 
 **Return of the devil in the details: delving deep into convolutional nets (2014)** <br>
 细节中的魔鬼回归：深入研究卷积网络 (2014)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DdwZBe8Q7f6SDBis9vAFIAA)** <br>
 
 **OverFeat: Integrated recognition, localization and detection using convolutional networks (2013)** <br>
 OverFeat: 使用卷积网络的集成识别、定位和检测 (2013)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DWhMK6sQ7f6SDBiu9vAFIAA)** <br>
 
 **Maxout networks (2013)** <br>
 Maxout网络 (2013)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DR9QHBIQ7f6SDBiv9vAFIAA)** <br>
 
 **Network in network (2013)** <br>
 网络中的网络 (2013)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DSksuJMQ7f6SDBix9vAFIAA)** <br>
 
 **ImageNet classification with deep convolutional neural networks (2012)** <br>
 使用深度卷积神经网络进行ImageNet分类 (2012)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Dd7zNMAQ7f6SDBiz9vAFIAA)** <br>
 
 
 ## Image: Segmentation / Object Detection
