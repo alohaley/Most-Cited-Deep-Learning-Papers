@@ -68,63 +68,82 @@ Adam：一种随机优化方法<br>
 
 **Pixel recurrent neural networks (2016)** <br>
 像素递归神经网络 (2016)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DT8wh1EQ7f6SDBjT8PAFIAA)** <br>
 
 **Improved techniques for training GANs (2016)** <br>
 改进的生成对抗网络训练技术 (2016)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DeMaTzYQ7f6SDBja8PAFIAA)** <br>
 
 **Unsupervised representation learning with deep convolutional generative adversarial networks (2015)** <br>
 使用深度卷积生成对抗网络的无监督表示学习 (2015)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DYbUqu0Q7f6SDBjj8PAFIAA)** <br>
 
 **DRAW: A recurrent neural network for image generation (2015)** <br>
 DRAW: 用于图像生成的递归神经网络 (2015)
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DRTNP2UQ7f6SDBjl8PAFIAA)** <br>
 
 **Generative adversarial nets (2014)** <br>
 生成对抗网络 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DXiJ4rQQ7f6SDBjm8PAFIAA)** <br>
 
 **Auto-encoding variational Bayes (2013)** <br>
 自编码变分贝叶斯 (2013)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DTmbxZgQ7f6SDBjn8PAFIAA)** <br>
 
 **Building high-level features using large scale unsupervised learning (2013)** <br>
 使用大规模无监督学习构建高层特征 (2013)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Dd03bY8Q7f6SDBjo8PAFIAA)** <br>
 
 ## Convolutional Neural Network Models
 卷积神经网络模型
 
 **Rethinking the inception architecture for computer vision (2016)** <br>
 重新思考计算机视觉中的Inception架构 (2016) <br>
+**[中英对照翻译pdf]()** <br>
 
 **Inception-v4, inception-resnet and the impact of residual connections on learning (2016)** <br>
 Inception-v4、Inception-ResNet及残差连接对学习的影响 (2016)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Identity Mappings in Deep Residual Networks (2016)** <br>
 深度残差网络中的恒等映射 (2016)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Deep residual learning for image recognition (2016)** <br>
 用于图像识别的深度残差学习 (2016)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Spatial transformer network (2015)** <br>
 空间变换网络 (2015)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Going deeper with convolutions (2015)** <br>
 通过卷积实现更深的网络 (2015)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Very deep convolutional networks for large-scale image recognition (2014)** <br>
 用于大规模图像识别的超深卷积网络 (2014)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Return of the devil in the details: delving deep into convolutional nets (2014)** <br>
 细节中的魔鬼回归：深入研究卷积网络 (2014)<br>
+**[中英对照翻译pdf]()** <br>
 
 **OverFeat: Integrated recognition, localization and detection using convolutional networks (2013)** <br>
 OverFeat: 使用卷积网络的集成识别、定位和检测 (2013)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Maxout networks (2013)** <br>
 Maxout网络 (2013)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Network in network (2013)** <br>
 网络中的网络 (2013)<br>
+**[中英对照翻译pdf]()** <br>
 
 **ImageNet classification with deep convolutional neural networks (2012)** <br>
 使用深度卷积神经网络进行ImageNet分类 (2012)<br>
+**[中英对照翻译pdf]()** <br>
 
 
 ## Image: Segmentation / Object Detection
