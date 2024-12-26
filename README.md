@@ -175,7 +175,7 @@ Faster R-CNN：使用区域建议网络实现实时目标检测 (2015)<br>
 
 
 ## Image / Video / Etc
-## 图像 / 视频 / 等等
+图像 / 视频 / 等等
 
 **Image Super-Resolution Using Deep Convolutional Networks (2016)** <br>
 图像超分辨率使用深度卷积网络 (2016)<br>
@@ -211,3 +211,80 @@ DeepFace：缩小人脸验证中与人类水平表现的差距 (2014)<br>
 用于人体动作识别的3D卷积神经网络 (2013)<br>
 
 
+## Natural Language Processing / RNNs
+自然语言处理 / 循环神经网络
+
+**Neural Architectures for Named Entity Recognition (2016)** <br>
+用于命名实体识别的神经架构 (2016)<br>
+
+**Exploring the Limits of Language Modeling (2016)** <br>
+探索语言建模的极限 (2016)<br>
+
+**Teaching Machines to Read and Comprehend (2015)** <br>
+教机器阅读和理解 (2015)<br>
+
+**Effective Approaches to Attention-Based Neural Machine Translation (2015)** <br>
+基于注意力的神经机器翻译的有效方法 (2015)<br>
+
+**Conditional Random Fields as Recurrent Neural Networks (2015)** <br>
+条件随机场作为递归神经网络 (2015)<br>
+
+**Memory Networks (2014)** <br>
+记忆网络 (2014)<br>
+
+**Neural Turing Machines (2014)** <br>
+神经图灵机 (2014)<br>
+
+**Neural Machine Translation by Jointly Learning to Align and Translate (2014)** <br>
+通过联合学习对齐和翻译的神经机器翻译 (2014)<br>
+
+**Sequence to Sequence Learning with Neural Networks (2014)** <br>
+使用神经网络的序列到序列学习 (2014)<br>
+
+**Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (2014)** <br>
+使用RNN编码器-解码器学习短语表示用于统计机器翻译 (2014)<br>
+
+**A Convolutional Neural Network for Modeling Sentences (2014)** <br>
+用于建模句子的卷积神经网络 (2014)<br>
+
+**Convolutional Neural Networks for Sentence Classification (2014)** <br>
+用于句子分类的卷积神经网络 (2014)<br>
+
+**Glove: Global Vectors for Word Representation (2014)** <br>
+Glove：词表示的全局向量 (2014)<br>
+
+**Distributed Representations of Sentences and Documents (2014)** <br>
+句子和文档的分布式表示 (2014)<br>
+
+**Distributed Representations of Words and Phrases and Their Compositionality (2013)** <br>
+单词和短语的分布式表示及其组合性 (2013)<br>
+
+**Efficient Estimation of Word Representations in Vector Space (2013)** <br>
+在向量空间中高效估计词表示 (2013)<br>
+
+**Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank (2013)** <br>
+用于情感树库语义组合的递归深度模型 (2013)<br>
+
+**Generating Sequences with Recurrent Neural Networks (2013)** <br>
+使用递归神经网络生成序列 (2013)<br>
+
+## Speech / Other Domain
+语音 / 其他领域
+
+**End-to-End Attention-Based Large Vocabulary Speech Recognition (2016)** <br>
+基于注意力的端到端大词汇量语音识别 (2016)<br>
+
+**Deep Speech 2: End-to-End Speech Recognition in English and Mandarin (2015)** <br>
+Deep Speech 2：英语和普通话的端到端语音识别 (2015)<br>
+
+**Speech Recognition with Deep Recurrent Neural Networks (2013)** <br>
+使用深度递归神经网络的语音识别 (2013)<br>
+
+**Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups (2012)** <br>
+用于语音识别中声学建模的深度神经网络：四个研究小组的共同观点 (2012)<br>
+
+**Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition (2012)** <br>
+用于大词汇量语音识别的上下文相关预训练深度神经网络 (2012)<br>
+
+**Acoustic Modeling Using Deep Belief Networks (2012)** <br>
+使用深度信念网络进行声学建模 (2012)<br>
