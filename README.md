@@ -151,35 +151,35 @@ Maxout网络 (2013)<br>
 
 **You only look once: Unified, real-time object detection (2016)** <br>
 你只看一次：统一的实时目标检测 (2016)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DQh2yJUQ7f6SDBiNw_EFIAA)** <br>
 
 **Fully convolutional networks for semantic segmentation (2015)** <br>
 用于语义分割的全卷积网络 (2015)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DUeCWlwQ7f6SDBiOw_EFIAA)** <br>
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015)** <br>
 Faster R-CNN：使用区域建议网络实现实时目标检测 (2015)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DYqDGRMQ7f6SDBiPw_EFIAA)** <br>
 
 **Fast R-CNN (2015)** <br>
 快速R-CNN (2015)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Dcnnb6YQ7f6SDBiWw_EFIAA)** <br>
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation (2014)** <br>
 用于精确目标检测和语义分割的丰富特征层次结构 (2014)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DfT1aZMQ7f6SDBiYw_EFIAA)** <br>
 
 **Spatial pyramid pooling in deep convolutional networks for visual recognition (2014)** <br>
 用于视觉识别的深度卷积网络中的空间金字塔池化 (2014)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DSIiT-wQ7f6SDBicw_EFIAA)** <br>
 
 **Semantic image segmentation with deep convolutional nets and fully connected CRFs** <br>
 使用深度卷积网络和全连接条件随机场的语义图像分割<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DdgBILgQ7f6SDBigw_EFIAA)** <br>
 
 **Learning hierarchical features for scene labeling (2013)** <br>
 学习用于场景标注的层次特征 (2013)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DXO5CwYQ7f6SDBihw_EFIAA)** <br>
 
 
 ## Image / Video / Etc
