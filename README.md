@@ -151,27 +151,35 @@ Maxout网络 (2013)<br>
 
 **You only look once: Unified, real-time object detection (2016)** <br>
 你只看一次：统一的实时目标检测 (2016)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Fully convolutional networks for semantic segmentation (2015)** <br>
 用于语义分割的全卷积网络 (2015)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015)** <br>
 Faster R-CNN：使用区域建议网络实现实时目标检测 (2015)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Fast R-CNN (2015)** <br>
 快速R-CNN (2015)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Rich feature hierarchies for accurate object detection and semantic segmentation (2014)** <br>
 用于精确目标检测和语义分割的丰富特征层次结构 (2014)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Spatial pyramid pooling in deep convolutional networks for visual recognition (2014)** <br>
 用于视觉识别的深度卷积网络中的空间金字塔池化 (2014)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Semantic image segmentation with deep convolutional nets and fully connected CRFs** <br>
 使用深度卷积网络和全连接条件随机场的语义图像分割<br>
+**[中英对照翻译pdf]()** <br>
 
 **Learning hierarchical features for scene labeling (2013)** <br>
 学习用于场景标注的层次特征 (2013)<br>
+**[中英对照翻译pdf]()** <br>
 
 
 ## Image / Video / Etc
@@ -179,12 +187,15 @@ Faster R-CNN：使用区域建议网络实现实时目标检测 (2015)<br>
 
 **Image Super-Resolution Using Deep Convolutional Networks (2016)** <br>
 图像超分辨率使用深度卷积网络 (2016)<br>
+**[中英对照翻译pdf]()** <br>
 
 **A Neural Algorithm of Artistic Style (2015)** <br>
 艺术风格的神经算法 (2015)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Deep Visual-Semantic Alignments for Generating Image Descriptions (2015)** <br>
 用于生成图像描述的深度视觉-语义对齐 (2015)<br>
+
 
 **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention (2015)** <br>
 展示、关注和讲述：带有视觉注意力的神经图像字幕生成 (2015)<br>
