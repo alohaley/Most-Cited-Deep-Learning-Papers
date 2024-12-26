@@ -172,3 +172,42 @@ Faster R-CNN：使用区域建议网络实现实时目标检测 (2015)<br>
 
 **Learning hierarchical features for scene labeling (2013)** <br>
 学习用于场景标注的层次特征 (2013)<br>
+
+
+## Image / Video / Etc
+## 图像 / 视频 / 等等
+
+**Image Super-Resolution Using Deep Convolutional Networks (2016)** <br>
+图像超分辨率使用深度卷积网络 (2016)<br>
+
+**A Neural Algorithm of Artistic Style (2015)** <br>
+艺术风格的神经算法 (2015)<br>
+
+**Deep Visual-Semantic Alignments for Generating Image Descriptions (2015)** <br>
+用于生成图像描述的深度视觉-语义对齐 (2015)<br>
+
+**Show, Attend and Tell: Neural Image Caption Generation with Visual Attention (2015)** <br>
+展示、关注和讲述：带有视觉注意力的神经图像字幕生成 (2015)<br>
+
+**Show and Tell: A Neural Image Caption Generator (2015)** <br>
+展示和讲述：一个神经图像字幕生成器 (2015)<br>
+
+**Long-term Recurrent Convolutional Networks for Visual Recognition and Description (2015)** <br>
+用于视觉识别和描述的长期递归卷积网络 (2015)<br>
+
+**VQA: Visual Question Answering (2015)** <br>
+VQA：视觉问答 (2015)<br>
+
+**DeepFace: Closing the Gap to Human-Level Performance in Face Verification (2014)** <br>
+DeepFace：缩小人脸验证中与人类水平表现的差距 (2014)<br>
+
+**Large-Scale Video Classification with Convolutional Neural Networks (2014)** <br>
+使用卷积神经网络的大规模视频分类 (2014)<br>
+
+**Two-Stream Convolutional Networks for Action Recognition in Videos (2014)** <br>
+视频中动作识别的双流卷积网络 (2014)<br>
+
+**3D Convolutional Neural Networks for Human Action Recognition (2013)** <br>
+用于人体动作识别的3D卷积神经网络 (2013)<br>
+
+
