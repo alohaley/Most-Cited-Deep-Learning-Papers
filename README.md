@@ -187,39 +187,47 @@ Faster R-CNN：使用区域建议网络实现实时目标检测 (2015)<br>
 
 **Image Super-Resolution Using Deep Convolutional Networks (2016)** <br>
 图像超分辨率使用深度卷积网络 (2016)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DYZEeaYQ7f6SDBjw1fEFIAA)** <br>
 
 **A Neural Algorithm of Artistic Style (2015)** <br>
 艺术风格的神经算法 (2015)<br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DUUD7LAQ7f6SDBjz1fEFIAA)** <br>
 
 **Deep Visual-Semantic Alignments for Generating Image Descriptions (2015)** <br>
 用于生成图像描述的深度视觉-语义对齐 (2015)<br>
-
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DbNeejYQ7f6SDBj01fEFIAA)** <br>
 
 **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention (2015)** <br>
 展示、关注和讲述：带有视觉注意力的神经图像字幕生成 (2015)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DQhK8BUQ7f6SDBj71fEFIAA)** <br>
 
 **Show and Tell: A Neural Image Caption Generator (2015)** <br>
 展示和讲述：一个神经图像字幕生成器 (2015)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DVJHVggQ7f6SDBj41fEFIAA)** <br>
 
 **Long-term Recurrent Convolutional Networks for Visual Recognition and Description (2015)** <br>
 用于视觉识别和描述的长期递归卷积网络 (2015)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Db4Ca-MQ7f6SDBj91fEFIAA)** <br>
 
 **VQA: Visual Question Answering (2015)** <br>
 VQA：视觉问答 (2015)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Dfh8KmMQ7f6SDBj81fEFIAA)** <br>
 
 **DeepFace: Closing the Gap to Human-Level Performance in Face Verification (2014)** <br>
 DeepFace：缩小人脸验证中与人类水平表现的差距 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DR73YUEQ7f6SDBj-1fEFIAA)** <br>
 
 **Large-Scale Video Classification with Convolutional Neural Networks (2014)** <br>
 使用卷积神经网络的大规模视频分类 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DXBRqAQQ7f6SDBj_1fEFIAA)** <br>
 
 **Two-Stream Convolutional Networks for Action Recognition in Videos (2014)** <br>
 视频中动作识别的双流卷积网络 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DcxwRtMQ7f6SDBiC1vEFIAA)** <br>
 
 **3D Convolutional Neural Networks for Human Action Recognition (2013)** <br>
 用于人体动作识别的3D卷积神经网络 (2013)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DWXBvDoQ7f6SDBiD1vEFIAA)** <br>
 
 
 ## Natural Language Processing / RNNs
