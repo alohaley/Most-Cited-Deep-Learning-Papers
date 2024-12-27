@@ -235,57 +235,75 @@ DeepFace：缩小人脸验证中与人类水平表现的差距 (2014)<br>
 
 **Neural Architectures for Named Entity Recognition (2016)** <br>
 用于命名实体识别的神经架构 (2016)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Dd_I1QEQ7f6SDBj61vEFIAA)** <br>
 
 **Exploring the Limits of Language Modeling (2016)** <br>
 探索语言建模的极限 (2016)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DeRf_BkQ7f6SDBj71vEFIAA)** <br>
 
 **Teaching Machines to Read and Comprehend (2015)** <br>
 教机器阅读和理解 (2015)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DZaTtWYQ7f6SDBj81vEFIAA)** <br>
 
 **Effective Approaches to Attention-Based Neural Machine Translation (2015)** <br>
 基于注意力的神经机器翻译的有效方法 (2015)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DU4IxZoQ7f6SDBj91vEFIAA)** <br>
 
 **Conditional Random Fields as Recurrent Neural Networks (2015)** <br>
 条件随机场作为递归神经网络 (2015)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DXKwMBgQ7f6SDBiA1_EFIAA)** <br>
 
 **Memory Networks (2014)** <br>
 记忆网络 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DYKt-g0Q7f6SDBiE1_EFIAA)** <br>
 
 **Neural Turing Machines (2014)** <br>
 神经图灵机 (2014)<br>
+**[中英对照翻译pdf]()** <br>
 
 **Neural Machine Translation by Jointly Learning to Align and Translate (2014)** <br>
 通过联合学习对齐和翻译的神经机器翻译 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DbasZqgQ7f6SDBiH1_EFIAA)** <br>
 
 **Sequence to Sequence Learning with Neural Networks (2014)** <br>
 使用神经网络的序列到序列学习 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DdfDQmcQ7f6SDBiJ1_EFIAA)** <br>
 
 **Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation (2014)** <br>
 使用RNN编码器-解码器学习短语表示用于统计机器翻译 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Dc4LYjgQ7f6SDBiK1_EFIAA)** <br>
 
 **A Convolutional Neural Network for Modeling Sentences (2014)** <br>
 用于建模句子的卷积神经网络 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DV5U7zgQ7f6SDBiL1_EFIAA)** <br>
 
 **Convolutional Neural Networks for Sentence Classification (2014)** <br>
 用于句子分类的卷积神经网络 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DXgyjp4Q7f6SDBiM1_EFIAA)** <br>
 
 **Glove: Global Vectors for Word Representation (2014)** <br>
 Glove：词表示的全局向量 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DWFyxgUQ7f6SDBiN1_EFIAA)** <br>
 
 **Distributed Representations of Sentences and Documents (2014)** <br>
 句子和文档的分布式表示 (2014)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DcSM8iUQ7f6SDBiS1_EFIAA)** <br>
 
 **Distributed Representations of Words and Phrases and Their Compositionality (2013)** <br>
 单词和短语的分布式表示及其组合性 (2013)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DV_vOKcQ7f6SDBiT1_EFIAA)** <br>
 
 **Efficient Estimation of Word Representations in Vector Space (2013)** <br>
 在向量空间中高效估计词表示 (2013)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DVUx8hQQ7f6SDBiV1_EFIAA)** <br>
 
 **Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank (2013)** <br>
 用于情感树库语义组合的递归深度模型 (2013)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Dee4j5YQ7f6SDBic1_EFIAA)** <br>
 
 **Generating Sequences with Recurrent Neural Networks (2013)** <br>
 使用递归神经网络生成序列 (2013)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DZj-ymYQ7f6SDBid1_EFIAA)** <br>
 
 ## Speech / Other Domain
 语音 / 其他领域
