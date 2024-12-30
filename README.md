@@ -327,8 +327,7 @@ Deep Speech 2：英语和普通话的端到端语音识别 (2015)<br>
 使用深度信念网络进行声学建模 (2012)<br>
 
 
-## Reinforcement Learning / Robotics 
-强化学习 / 机器人学  
+### Reinforcement Learning / Robotics 强化学习 / 机器人学  
 
 **End-to-end training of deep visuomotor policies (2016)** <br>  
 深度视觉运动策略的端到端训练 (2016) <br>  
@@ -357,8 +356,7 @@ Deep Speech 2：英语和普通话的端到端语音识别 (2015)<br>
 **Playing atari with deep reinforcement learning (2013)** <br>  
 使用深度强化学习玩Atari游戏 (2013) <br>  
 
-## More Papers from 2016 
-更多 2016 年的论文  
+### More Papers from 2016 更多 2016 年的论文  
 
 **Layer Normalization (2016)** <br>  
 层归一化 (2016) <br>  
@@ -404,3 +402,80 @@ Eie：压缩深度神经网络上的高效推理引擎 (2016) <br>
 
 **Google's neural machine translation system: Bridging the gap between human and machine translation (2016)** <br>  
 谷歌的神经机器翻译系统：弥合人类和机器
+
+
+## Reinforcement Learning / Robotics 强化学习 / 机器人学  
+
+**End-to-end training of deep visuomotor policies (2016)**  
+深度视觉运动策略的端到端训练 (2016) <br>  
+
+**Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016)**  
+使用深度学习和大规模数据收集学习机器人抓取的手眼协调 (2016) <br>  
+
+**Asynchronous methods for deep reinforcement learning (2016)**  
+深度强化学习的异步方法 (2016) <br>  
+
+**Deep Reinforcement Learning with Double Q-Learning (2016)**  
+使用双Q学习的深度强化学习 (2016) <br>  
+
+**Mastering the game of Go with deep neural networks and tree search (2016)**  
+使用深度神经网络和树搜索掌握围棋游戏 (2016) <br>  
+
+**Continuous control with deep reinforcement learning (2015)**  
+使用深度强化学习进行连续控制 (2015) <br>  
+
+**Human-level control through deep reinforcement learning (2015)**  
+通过深度强化学习实现人类水平的控制 (2015) <br>  
+
+**Deep learning for detecting robotic grasps (2015)**  
+用于检测机器人抓取的深度学习 (2015) <br>  
+
+**Playing atari with deep reinforcement learning (2013)**  
+使用深度强化学习玩Atari游戏 (2013) <br>  
+
+## More Papers from 2016 更多 2016 年的论文  
+
+**Layer Normalization (2016)**  
+层归一化 (2016) <br>  
+
+**Learning to learn by gradient descent by gradient descent (2016)**  
+通过梯度下降学习学习 (2016) <br>  
+
+**Domain-adversarial training of neural networks (2016)**  
+神经网络的领域对抗训练 (2016) <br>  
+
+**WaveNet: A Generative Model for Raw Audio (2016)**  
+WaveNet：一种原始音频的生成模型 (2016) <br>  
+
+**Colorful image colorization (2016)**  
+彩色图像上色 (2016) <br>  
+
+**Generative visual manipulation on the natural image manifold (2016)**  
+在自然图像流形上的生成视觉操控 (2016) <br>  
+
+**Texture networks: Feed-forward synthesis of textures and stylized images (2016)**  
+纹理网络：纹理和风格化图像的前馈合成 (2016) <br>  
+
+**SSD: Single shot multibox detector (2016)**  
+SSD：单次多框检测器 (2016) <br>  
+
+**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size (2016)**  
+SqueezeNet：以50倍更少的参数和小于1MB的模型大小达到AlexNet水平的准确性 (2016) <br>  
+
+**Eie: Efficient inference engine on compressed deep neural network (2016)**  
+Eie：压缩深度神经网络上的高效推理引擎 (2016) <br>  
+
+**Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1 (2016)**  
+二值化神经网络：训练权重和激活值限制为+1或-1的深度神经网络 (2016) <br>  
+
+**Dynamic memory networks for visual and textual question answering (2016)**  
+用于视觉和文本问答的动态记忆网络 (2016) <br>  
+
+**Stacked attention networks for image question answering (2016)**  
+用于图像问答的堆叠注意力网络 (2016) <br>  
+
+**Hybrid computing using a neural network with dynamic external memory (2016)**  
+使用具有动态外部存储器的神经网络的混合计算 (2016) <br>  
+
+**Google's neural machine translation system: Bridging the gap between human and machine translation (2016)**  
+谷歌的神经机器翻译系统：弥合人类和机器翻译之间的差距 (2016) <br>
