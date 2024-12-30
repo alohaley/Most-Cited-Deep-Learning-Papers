@@ -310,21 +310,27 @@ Glove：词表示的全局向量 (2014)<br>
 
 **End-to-End Attention-Based Large Vocabulary Speech Recognition (2016)** <br>
 基于注意力的端到端大词汇量语音识别 (2016)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DSK1GN8Q7f6SDBiHmPIFIAA)** <br>
 
 **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin (2015)** <br>
 Deep Speech 2：英语和普通话的端到端语音识别 (2015)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DS2VmuQQ7f6SDBiImPIFIAA)** <br>
 
 **Speech Recognition with Deep Recurrent Neural Networks (2013)** <br>
 使用深度递归神经网络的语音识别 (2013)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DYR4APQQ7f6SDBiJmPIFIAA)** <br>
 
 **Deep Neural Networks for Acoustic Modeling in Speech Recognition: The Shared Views of Four Research Groups (2012)** <br>
 用于语音识别中声学建模的深度神经网络：四个研究小组的共同观点 (2012)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DSnsX7IQ7f6SDBiLmPIFIAA)** <br>
 
 **Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition (2012)** <br>
 用于大词汇量语音识别的上下文相关预训练深度神经网络 (2012)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DX6bQRYQ7f6SDBiMmPIFIAA)** <br>
 
 **Acoustic Modeling Using Deep Belief Networks (2012)** <br>
 使用深度信念网络进行声学建模 (2012)<br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DZFFD8cQ7f6SDBiNmPIFIAA)** <br>
 
 ## Reinforcement Learning / Robotics 
 强化学习 / 机器人学  
