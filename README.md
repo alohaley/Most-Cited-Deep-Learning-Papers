@@ -337,30 +337,39 @@ Deep Speech 2：英语和普通话的端到端语音识别 (2015)<br>
 
 **End-to-end training of deep visuomotor policies (2016)**  
 深度视觉运动策略的端到端训练 (2016) <br>  
+**[中英对照翻译pdf]()** <br>
 
 **Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection (2016)**  
 使用深度学习和大规模数据收集学习机器人抓取的手眼协调 (2016) <br>  
+**[中英对照翻译pdf]()** <br>
 
 **Asynchronous methods for deep reinforcement learning (2016)**  
 深度强化学习的异步方法 (2016) <br>  
+**[中英对照翻译pdf]()** <br>
 
 **Deep Reinforcement Learning with Double Q-Learning (2016)**  
 使用双Q学习的深度强化学习 (2016) <br>  
+**[中英对照翻译pdf]()** <br>
 
 **Mastering the game of Go with deep neural networks and tree search (2016)**  
 使用深度神经网络和树搜索掌握围棋游戏 (2016) <br>  
+**[中英对照翻译pdf]()** <br>
 
 **Continuous control with deep reinforcement learning (2015)**  
 使用深度强化学习进行连续控制 (2015) <br>  
+**[中英对照翻译pdf]()** <br>
 
 **Human-level control through deep reinforcement learning (2015)**  
 通过深度强化学习实现人类水平的控制 (2015) <br>  
+**[中英对照翻译pdf]()** <br>
 
 **Deep learning for detecting robotic grasps (2015)**  
 用于检测机器人抓取的深度学习 (2015) <br>  
+**[中英对照翻译pdf]()** <br>
 
 **Playing atari with deep reinforcement learning (2013)**  
 使用深度强化学习玩Atari游戏 (2013) <br>  
+**[中英对照翻译pdf]()** <br>
 
 ## More Papers from 2016 
 更多 2016 年的论文  
