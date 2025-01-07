@@ -376,61 +376,61 @@ Deep Speech 2：英语和普通话的端到端语音识别 (2015)<br>
 
 **Layer Normalization (2016)**  
 层归一化 (2016) <br>  
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DXGOjZIQ7f6SDBiclPMFIAA)** <br>
 
 **Learning to learn by gradient descent by gradient descent (2016)**  
 通过梯度下降学习学习 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DWvKgo8Q7f6SDBielPMFIAA)** <br>
 
 **Domain-adversarial training of neural networks (2016)**  
 神经网络的领域对抗训练 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DZfFknMQ7f6SDBiflPMFIAA)** <br>
 
 **WaveNet: A Generative Model for Raw Audio (2016)**  
 WaveNet：一种原始音频的生成模型 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/De3-pD8Q7f6SDBiglPMFIAA)** <br>
 
 **Colorful image colorization (2016)**  
 彩色图像上色 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Dd0Zow8Q7f6SDBihlPMFIAA)** <br>
 
 **Generative visual manipulation on the natural image manifold (2016)**  
 在自然图像流形上的生成视觉操控 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DapfOMwQ7f6SDBijlPMFIAA)** <br>
 
 **Texture networks: Feed-forward synthesis of textures and stylized images (2016)**  
 纹理网络：纹理和风格化图像的前馈合成 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DZwN27AQ7f6SDBillPMFIAA)** <br>
 
 **SSD: Single shot multibox detector (2016)**  
 SSD：单次多框检测器 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/Da3CnkEQ7f6SDBimlPMFIAA)** <br>
 
 
 **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size (2016)**  
 SqueezeNet：以50倍更少的参数和小于1MB的模型大小达到AlexNet水平的准确性 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DQhv8o8Q7f6SDBiolPMFIAA)** <br>
 
 **Eie: Efficient inference engine on compressed deep neural network (2016)**  
 Eie：压缩深度神经网络上的高效推理引擎 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DYby15kQ7f6SDBiplPMFIAA)** <br>
 
 **Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1 (2016)**  
 二值化神经网络：训练权重和激活值限制为+1或-1的深度神经网络 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DU89KggQ7f6SDBiqlPMFIAA)** <br>
 
 **Dynamic memory networks for visual and textual question answering (2016)**  
 用于视觉和文本问答的动态记忆网络 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DYDdUuUQ7f6SDBirlPMFIAA)** <br>
 
 **Stacked attention networks for image question answering (2016)**  
 用于图像问答的堆叠注意力网络 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DckoEMAQ7f6SDBislPMFIAA)** <br>
 
 **Hybrid computing using a neural network with dynamic external memory (2016)**  
 使用具有动态外部存储器的神经网络的混合计算 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DSAOfFwQ7f6SDBiulPMFIAA)** <br>
 
 **Google's neural machine translation system: Bridging the gap between human and machine translation (2016)**  
 谷歌的神经机器翻译系统：弥合人类和机器翻译之间的差距 (2016) <br>
-**[中英对照翻译pdf]()** <br>
+**[中英对照翻译pdf](https://www.jianguoyun.com/p/DQHDOHEQ7f6SDBiwlPMFIAA)** <br>
