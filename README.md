@@ -434,3 +434,206 @@ Eie：压缩深度神经网络上的高效推理引擎 (2016) <br>
 **Google's neural machine translation system: Bridging the gap between human and machine translation (2016)**  
 谷歌的神经机器翻译系统：弥合人类和机器翻译之间的差距 (2016) <br>
 **[中英对照翻译pdf](https://www.jianguoyun.com/p/DQHDOHEQ7f6SDBiwlPMFIAA)** <br>
+
+
+### Newly published papers (< 6 months) which are worth reading
+  新近发表的值得阅读的论文（< 6 个月）
+
+**MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017)**  
+  MobileNets：用于移动视觉应用的高效卷积神经网络<br>
+
+**Convolutional Sequence to Sequence Learning (2017)**  
+  卷积序列到序列学习<br>
+
+**A Knowledge-Grounded Neural Conversation Model (2017)**  
+  基于知识的神经对话模型<br>
+
+**Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour (2017)**  
+  精确的大批量小批次随机梯度下降：1小时训练ImageNet<br>
+
+**TACOTRON: Towards end-to-end speech synthesis (2017)**  
+  TACOTRON：迈向端到端语音合成<br>
+
+**Deep Photo Style Transfer (2017)**  
+  深度照片风格迁移<br>
+
+**Evolution Strategies as a Scalable Alternative to Reinforcement Learning (2017)**  
+  作为强化学习可扩展替代方案的进化策略<br>
+
+**Deformable Convolutional Networks (2017)**  
+  可变形卷积网络<br>
+
+**Mask R-CNN (2017)**  
+  掩码R-CNN<br>
+
+**Learning to discover cross-domain relations with generative adversarial networks (2017)**  
+  使用生成对抗网络学习发现跨领域关系<br>
+
+**Deep voice: Real-time neural text-to-speech (2017)**  
+  深度语音：实时神经文本到语音<br>
+
+**PixelNet: Representation of the pixels, by the pixels, and for the pixels (2017)**  
+  PixelNet：像素的表示、由像素表示、为像素表示<br>
+
+**Batch renormalization: Towards reducing minibatch dependence in batch-normalized models (2017)**  
+  批重正则化：减少批标准化模型中的小批量依赖<br>
+
+**Wasserstein GAN (2017)**  
+  Wasserstein生成对抗网络<br>
+
+**Understanding deep learning requires rethinking generalization (2017)**  
+  理解深度学习需要重新思考泛化<br>
+
+**Least squares generative adversarial networks (2016)**  
+  最小二乘生成对抗网络<br>
+
+### Old Papers
+  旧论文
+
+**Classic papers published before 2012**  
+  2012年前发表的经典论文<br>
+
+**An analysis of single-layer networks in unsupervised feature learning (2011)**  
+  无监督特征学习中单层网络的分析<br>
+
+**Deep sparse rectifier neural networks (2011)**  
+  深度稀疏修正线性单元神经网络<br>
+
+**Natural language processing (almost) from scratch (2011)**  
+  自然语言处理（几乎）从零开始<br>
+
+**Recurrent neural network based language model (2010)**  
+  基于循环神经网络的语言模型<br>
+
+**Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion (2010)**  
+  堆叠去噪自编码器：使用局部去噪准则在深度网络中学习有用的表示<br>
+
+**Learning mid-level features for recognition (2010)**  
+  学习中层特征用于识别<br>
+
+**A practical guide to training restricted boltzmann machines (2010)**  
+  训练受限玻尔兹曼机的实用指南<br>
+
+**Understanding the difficulty of training deep feedforward neural networks (2010)**  
+  理解训练深度前馈神经网络的难度<br>
+
+**Why does unsupervised pre-training help deep learning (2010)**  
+  为什么无监督预训练有助于深度学习<br>
+
+**Learning deep architectures for AI (2009)**  
+  为人工智能学习深度架构<br>
+
+**Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations (2009)**  
+  用于可扩展的层次表示无监督学习的卷积深度信念网络<br>
+
+**Greedy layer-wise training of deep networks (2007)**  
+  深度网络的贪婪分层训练<br>
+
+**Reducing the dimensionality of data with neural networks**  
+  使用神经网络降低数据维度<br>
+
+**A fast learning algorithm for deep belief nets (2006)**  
+  深度信念网络的快速学习算法<br>
+
+**Gradient-based learning applied to document recognition (1998)**  
+  基于梯度的学习应用
+
+
+### Newly published papers (< 6 months) which are worth reading
+新近发表的值得阅读的论文（< 6 个月）
+
+ **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017)**  
+  MobileNets：用于移动视觉应用的高效卷积神经网络<br>
+
+ **Convolutional Sequence to Sequence Learning (2017)**  
+  卷积序列到序列学习<br>
+
+ **A Knowledge-Grounded Neural Conversation Model (2017)**  
+  基于知识的神经对话模型<br>
+
+ **Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour (2017)**  
+  精确的大批量小批次随机梯度下降：1小时训练ImageNet<br>
+
+ **TACOTRON: Towards end-to-end speech synthesis (2017)**  
+  TACOTRON：迈向端到端语音合成<br>
+
+ **Deep Photo Style Transfer (2017)**  
+  深度照片风格迁移<br>
+
+ **Evolution Strategies as a Scalable Alternative to Reinforcement Learning (2017)**  
+  作为强化学习可扩展替代方案的进化策略<br>
+
+ **Deformable Convolutional Networks (2017)**  
+  可变形卷积网络<br>
+
+ **Mask R-CNN (2017)**  
+  掩码R-CNN<br>
+
+ **Learning to discover cross-domain relations with generative adversarial networks (2017)**  
+  使用生成对抗网络学习发现跨领域关系<br>
+
+ **Deep voice: Real-time neural text-to-speech (2017)**  
+  深度语音：实时神经文本到语音<br>
+
+ **PixelNet: Representation of the pixels, by the pixels, and for the pixels (2017)**  
+  PixelNet：像素的表示、由像素表示、为像素表示<br>
+
+ **Batch renormalization: Towards reducing minibatch dependence in batch-normalized models (2017)**  
+  批重正则化：减少批标准化模型中的小批量依赖<br>
+
+ **Wasserstein GAN (2017)**  
+  Wasserstein生成对抗网络<br>
+
+ **Understanding deep learning requires rethinking generalization (2017)**  
+  理解深度学习需要重新思考泛化<br>
+
+ **Least squares generative adversarial networks (2016)**  
+  最小二乘生成对抗网络<br>
+
+### Old Papers
+  旧论文
+
+ **Classic papers published before 2012**  
+  2012年前发表的经典论文<br>
+
+ **An analysis of single-layer networks in unsupervised feature learning (2011)**  
+  无监督特征学习中单层网络的分析<br>
+
+ **Deep sparse rectifier neural networks (2011)**  
+  深度稀疏修正线性单元神经网络<br>
+
+ **Natural language processing (almost) from scratch (2011)**  
+  自然语言处理（几乎）从零开始<br>
+
+ **Recurrent neural network based language model (2010)**  
+  基于循环神经网络的语言模型<br>
+
+ **Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion (2010)**  
+  堆叠去噪自编码器：使用局部去噪准则在深度网络中学习有用的表示<br>
+
+ **Learning mid-level features for recognition (2010)**  
+  学习中层特征用于识别<br>
+
+ **A practical guide to training restricted boltzmann machines (2010)**  
+  训练受限玻尔兹曼机的实用指南<br>
+
+ **Understanding the difficulty of training deep feedforward neural networks (2010)**  
+  理解训练深度前馈神经网络的难度<br>
+
+ **Why does unsupervised pre-training help deep learning (2010)**  
+  为什么无监督预训练有助于深度学习<br>
+
+ **Learning deep architectures for AI (2009)**  
+  为人工智能学习深度架构<br>
+
+ **Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations (2009)**  
+  用于可扩展的层次表示无监督学习的卷积深度信念网络<br>
+
+ **Greedy layer-wise training of deep networks (2007)**  
+  深度网络的逐层贪婪训练<br>
+
+ **Reducing the dimensionality of data with neural networks**  
+  使用神经网络降低数据维度<br>
+
+ **A fast learning algorithm for deep belief nets (2006)**  
+  深度信念网络的快速学习算法<br>
